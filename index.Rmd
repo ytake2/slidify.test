@@ -4,6 +4,7 @@ subtitle    : 練習
 author      : 竹林
 job         : 統計
 framework   : revealjs        # {io2012, html5slides, shower, dzslides, ...}
+revealjs: {theme: solarized, transition: cube}
 highlighter : highlight.js  # {highlight.js, prettify, highlight}
 hitheme     : tomorrow      # 
 widgets     : [mathjax]            # {mathjax, quiz, bootstrap}
