@@ -11,7 +11,7 @@ mode        : selfcontained # {standalone, draft}
 knit        : slidify::knit2slides
 ---
 
-## Read-And-Delete
+## Slide 1
 
 1. Edit YAML front matter
 2. Write using R Markdown
@@ -22,5 +22,12 @@ knit        : slidify::knit2slides
 ## Slide 2
 
 
+--- .class #id 
 
+## Slide 3
 
+--- .class #id 
+
+## Slide 4
+
+--- .class #id 
